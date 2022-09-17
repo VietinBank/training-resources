@@ -1,1 +1,122 @@
-{"zbal_current":{"0":17926812493.0},"zbal_change_prv":{"0":1.0},"sme_1":{"0":0.0},"sme_2":{"0":0.0},"sme_3":{"0":1.0},"sme_4":{"0":0.0},"sme_5":{"0":1.0},"sme_6":{"0":4.0},"sme_7":{"0":0.0},"sme_8":{"0":0.0},"sme_9":{"0":0.4},"sme_10":{"0":1.0},"cfgrad":{"0":0.0},"GIA_VON_DOANH_THU":{"0":-0.72},"GIA_VON_grow":{"0":0.05},"PHAI_THU_NH_grow":{"0":0.47},"LNST_DOANH_THU":{"0":-2.45},"LNST_grow":{"0":-0.25},"LN_THUAN_grow":{"0":-0.24},"TIEN_TUONG_DUONG_grow":{"0":6.4},"DOANH_THU_grow":{"0":0.17},"LNST_DOANH_THU_PERCENT":{"0":-0.93},"faprlv":{"0":0.0},"KHA_NANG_TT_NH":{"0":157.0},"KHA_NANG_TT_MRK":{"0":12.0},"VQ_VON":{"0":114.0},"VQ_VON_MRK":{"0":1.6},"VQ_HTK":{"0":128.0},"VQ_HTK_MRK":{"0":2.4},"NDH_TREN_VON_CSH_MRK":{"0":8.0},"LNG_TREN_DTT":{"0":2112.0},"LNG_TREN_DTT_MRK":{"0":7.2},"fscore":{"0":0.0},"nscore":{"0":0.0},"estpd":{"0":0.0},"pd":{"0":0.0},"percent_by_grade":{"0":0.09},"percent_by_cif_age":{"0":0.12},"percent_by_capital_bal":{"0":0.25},"percent_by_zbal_change":{"0":0.39}}
+{
+    "zbal_current": {
+        "0": 17926812493.0
+    },
+    "zbal_change_prv": {
+        "0": 1.0
+    },
+    "sme_1": {
+        "0": 0.0
+    },
+    "sme_2": {
+        "0": 0.0
+    },
+    "sme_3": {
+        "0": 1.0
+    },
+    "sme_4": {
+        "0": 0.0
+    },
+    "sme_5": {
+        "0": 1.0
+    },
+    "sme_6": {
+        "0": 4.0
+    },
+    "sme_7": {
+        "0": 0.0
+    },
+    "sme_8": {
+        "0": 0.0
+    },
+    "sme_9": {
+        "0": 0.4
+    },
+    "sme_10": {
+        "0": 1.0
+    },
+    "cfgrad": {
+        "0": 0.0
+    },
+    "GIA_VON_DOANH_THU": {
+        "0": -0.72
+    },
+    "GIA_VON_grow": {
+        "0": 0.05
+    },
+    "PHAI_THU_NH_grow": {
+        "0": 0.47
+    },
+    "LNST_DOANH_THU": {
+        "0": -2.45
+    },
+    "LNST_grow": {
+        "0": -0.25
+    },
+    "LN_THUAN_grow": {
+        "0": -0.24
+    },
+    "TIEN_TUONG_DUONG_grow": {
+        "0": 6.4
+    },
+    "DOANH_THU_grow": {
+        "0": 0.17
+    },
+    "LNST_DOANH_THU_PERCENT": {
+        "0": -0.93
+    },
+    "faprlv": {
+        "0": 0.0
+    },
+    "KHA_NANG_TT_NH": {
+        "0": 157.0
+    },
+    "KHA_NANG_TT_MRK": {
+        "0": 12.0
+    },
+    "VQ_VON": {
+        "0": 114.0
+    },
+    "VQ_VON_MRK": {
+        "0": 1.6
+    },
+    "VQ_HTK": {
+        "0": 128.0
+    },
+    "VQ_HTK_MRK": {
+        "0": 2.4
+    },
+    "NDH_TREN_VON_CSH_MRK": {
+        "0": 8.0
+    },
+    "LNG_TREN_DTT": {
+        "0": 2112.0
+    },
+    "LNG_TREN_DTT_MRK": {
+        "0": 7.2
+    },
+    "fscore": {
+        "0": 0.0
+    },
+    "nscore": {
+        "0": 0.0
+    },
+    "estpd": {
+        "0": 0.0
+    },
+    "pd": {
+        "0": 0.0
+    },
+    "percent_by_grade": {
+        "0": 0.09
+    },
+    "percent_by_cif_age": {
+        "0": 0.12
+    },
+    "percent_by_capital_bal": {
+        "0": 0.25
+    },
+    "percent_by_zbal_change": {
+        "0": 0.39
+    }
+}
